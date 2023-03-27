@@ -23,7 +23,6 @@ export const putDb = async (content)  => {
 
   console.log('data saved to the database', result);
 };
-;
 
 // logic for a method that gets all the content from the database
 export const getDb = async () => {
