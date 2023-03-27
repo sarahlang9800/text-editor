@@ -54,6 +54,7 @@ THEN I should have proper build scripts for a webpack application
 [GitHub](https://github.com/sarahlang9800/text-editor)
 
 ## Deployed Application
+[Heroku]()
 
 ## Example GIF's 
 ![Example Animations](/Assets/00-demo.gif)
