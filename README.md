@@ -62,11 +62,14 @@ THEN I should have proper build scripts for a webpack application
 ![Example Animations](/Assets/03-idb-storage.png)
 
 ## Summary
-* 
-* 
-* 
-* 
-* 
+* This text editor uses IndexedDB to create an object store and includes both GET and PUT methods
+* Application works without an internet connection
+* Automatically saves content inside the text editor when the DOM window is unfocused
+* Bundled with webpack
+* Created a service worker with workbox that Caches static assets
+* Application uses babel in order to use async / await
+* Application has a generated `manifest.json` using the `WebpackPwaManifest` plug-in
+* Can be installed as a Progressive Web Application
 
 ### Challenge Help
 * AskBCS Learning Assistants
